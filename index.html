@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/wrapper.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>JOYA_1</title>
+</head>
+<body>
+    <div id="panier-fixe">
+        <i class="material-icons"></i>
+        <span id="nombre-produit-panier" class="flex-aic">0</span>
+    </div>
+    <header class="flex-aic">
+        <div class="header-top flex-aic">
+            <div class="header-top-container w90vw flex-aic">
+                <div class="service-client flex-aic">
+                    <img src="./images/cms/ico_customer_service.png" alt="">
+                    <p>Service client au: <a href="#">06 49 54 94 19</a></p>
+                </div>
+                <div class="livraison-mondiale flex-aic">
+                    <img src="./images/cms/ico_shipping.png" alt="">
+                    <p>Livraison Mondial Relay offerte à partir de 100€</p>
+                </div>
+                <div class="click-collect flex-aic">
+                    <img src="./images/cms/ico_click_collect.png" alt="">
+                    <p>Click & Collect - La Grande Motte</p>
+                </div>
+            </div>
+        </div>
+        <div class="header-bottom w90vw flex-aic">
+            <div class="barre-recherche h100pc flex-aic">
+                <input type="text" placeholder="Faire une recherche dans notre catalogue" class="h100pc">
+                <a href="#"><i class="fas fa-search"></i></a>
+            </div>
+            <div class="compte-et-pannier flex-aic">
+                <div class="compte">
+                    <i class="fas fa-user"></i>
+                    <span>MON COMPTE</span>
+                    <div class="param-compte">
+                        <div><i class="fas fa-lock"></i> Se connecter</div>
+                        <div><i class="fas fa-user-circle"></i> Mon compte</div>
+                        <div><i class="fas fa-shopping-cart"></i> Check-out</div>
+                    </div>
+                </div>
+                <div class="panier flex-aic">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span>MON PANIER</span>
+                    <div class="nb-panier">0</div>
+                </div>
+            </div>
+        </div>
+        <div class="logo-joya w90vw flex">
+            <img src="./images/cms/joyalestorecom-logo-1617790973.jpg" alt="logo">
+        </div>
+        <nav class="navigation w90vw flex-aic">
+            <div class="nav-list">
+                <div class="titre" >PRÊT À PORTER</div>
+                <div class="sous-nav-list">
+                    <div id="pulls_et_gilets">PULLS ET GILETS</div>
+                    <div id="t_shirts">T-SHIRT</div>
+                    <div id="robes">ROBES</div>
+                    <div id="jupes">JUPES</div>
+                    <div id="pantalons">PANTALONS</div>
+                </div>
+            </div>
+            <div class="nav-list">
+                <div class="titre" >CHAUSSURES</div>
+                <div class="sous-nav-list">
+                    <div id="escarpins">ESCARPINS</div>
+                    <div id="mocassins">MOCASSINS</div>
+                    <div id="sandales">SANDALES</div>
+                    <div id="baskets">BASKETS</div>
+                </div>
+            </div>
+            <div class="nav-list">
+                <div class="titre" >ACCESSOIRES</div>
+                <div class="sous-nav-list">
+                    <div id="casquette_et_chapeaux">CASQUETTE ET CHAPEAUX</div>
+                    <div id="ceintures">CEINTURES</div>
+                </div>
+            </div>
+            <div class="nav-list">
+                <div class="titre" >SACS ET PETITES MAROQUINERIE</div>
+                <div class="sous-nav-list">
+                    <div id="pochettes">POCHETTES</div>
+                    <div id="sacs_a_bondouliere">SACS A BANDOULIERE</div>
+                </div>
+            </div>
+            <div class="nav-list"><div class="titre" id='bijoux'>BIJOUX</div></div>
+            <div class="nav-list"><div class="titre" id="homme">HOMME</div></div>
+            <div class="nav-list"><div class="titre" id="nouvelle_collection">NOUVELLE COLLECTION</div></div>
+            <div class="nav-list"><div class="titre" id="promo">PROMO</div></div>
+        </nav>
+    </header>
+
+    <div class="sous-nav w90vw " id="sous_nav">
+        <img src="./images/cms/nouvelle_collection.jpg" alt="" id="img-couverture">
+        <div class="direction flex-aic" id="gauche"> < </div>
+        <div class="direction flex-aic" id="droite"> > </div>
+    </div>
+
+
+    <div class="nouveautes" id="nouveautes">NOUVEAUTÉS</div>
+    
+    <div id="tousProduits" class="flex"></div>
+
+    <div class="wrapper" id="wrapper">
+        <div class="container-wrapper">
+            <div class="wrapper-1">
+                <div class="container-img">
+                    <a href="#">
+                        <img src="./images/wrapper/categorie-baskets.jpg" alt="">
+                        <p id="indice">BASKETS</p>
+                    </a>
+                </div>
+        
+                <div class="container-img">
+                    <a href="#">
+                        <img src="./images/wrapper/categorie-robes.jpg" alt="">
+                        <p id="indice">ROBES</p>
+                    </a>
+                </div>
+        
+                <div class="container-img">
+                    <a href="#">
+                        <img src="./images/wrapper/categorie-sandales.jpg" alt="">
+                        <p id="indice">SANDALES</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="wrapper-2">
+                <div class="wrapper-2-container">
+                    <img src="./images/cms/rea_customer_service.png" alt="">
+                    <p class="avecAnim">SERVICE CLIENT</p>
+                    <p>AU 06 49 54 94 19</p>
+                </div>
+                <div class="wrapper-2-container">
+                    <img src="./images/cms/reassurance-joya-le-store-moyens-paiements.png" alt="">
+                    <p  class="avecAnim">PAIEMENT SECURISE</p>
+                    <p>& 3x SANS FRAIS AVEC ALMA</p>
+                </div>
+                <div class="wrapper-2-container">
+                    <img src="./images/cms/rea_shipping.png" alt="">
+                    <p  class="avecAnim">LIVRAISON MONDIALE RALAY</p>
+                    <p>OFFERTE A PARTIR DE 100 €</p>
+                </div>
+                <div class="wrapper-2-container">
+                    <img src="./images/cms/rea_click_collect.png" alt="">
+                    <p  class="avecAnim">CLICK & COLLECT</p>
+                    <p>A LA GRANDE MOTTE</p>
+                </div>
+            </div>
+
+            <div class="wrapper-3">
+                <p>BOUTIQUE DE MODE POUR FEMME | JOYALESTORE</p>
+                <p>SOYEZ CELLE QUI VOUS REND BELLE</p>
+            </div>
+
+            <div class="wrapper-4 w90vw">
+                <div class="wrapper-4-text">
+                    <p>Boutique de mode pour toutes les femmes qui n’ont qu’un seul objectif se sentir belles.
+                        Joyalestore.com c’est la promesse de looks actuels, personnalisés selon votre 
+                        morphologie pour que chacune d’entre vous se sente belle.
+                    </p>
+                    <p>- Notre Philosophie</p>
+                    <p>Dans votre boutique en ligne de vêtements pour femme vous pourrez 
+                        composer vos looks de la tête aux pieds puisque nous vous proposons u
+                        n large choix de chaussures pour femme, prêt à porter féminin et accessoires de mode 
+                        pour femme qui viendront parfaire vos looks.
+                    </p>
+                    <ul>
+                        <li><a href="#">- Prêt à porter pour femme</a></li>
+                        <li><a href="#">- Accessoires (Bijoux et Ceintures)</a></li>
+                        <li><a href="#">- Sacs & Petite Maroquinerie</a></li>
+                        <li><a href="#">- Chaussures (Baskets, Escarpins, Sandales, Bottes et Bottines)</a></li>
+                    </ul>
+                    <p>Joya le store c’est aussi le choix de marques de mode pour femme 
+                        tendances sélectionnées pour leur qualité et leur originalité. 
+                        Des sacs Mila Louise en cuir qui n’ont absolument plus rien à 
+                        prouver quant à leur qualité durable dans le temps aux baskets 
+                        complètement dingues (beaucoup pailletées, oui oui on adore les 
+                        paillettes) de la marque Semerdjian.
+                    </p>
+                </div>
+                <div class="wrapper-4-image">
+                    <img src="./images/cms/cms-img.jpg" alt="">
+                </div>
+            </div>
+        </div>    
+    </div>
+
+    <footer>
+        <div class="footer-image">
+            <img src="./images/cms/banner_magasin_lagrandemotte.jpg" alt="">
+        </div>
+
+        <div class="footer-container">
+            <div class="footer-list">
+                <div class="a-propos">
+                    <div class="logo-footer">
+                        <img src="./images/cms/joyalestorecom-logo-1617790973.jpg" alt="">
+                    </div>
+                    <div class="titre-footer">A PROPOS DE NOUS</div>
+                    <div><i class="fa fa-home"></i> 25 Quai Charles de Gaulle, LA GRANDE MOTTE, France </div>
+                    <div><i class="fa fa-phone"></i> 06 49 54 94 19</div>
+                    <div class="a-propos-mail"><i class="fa fa-envelope"></i> no-reply@joyalestore.com</div>
+                </div>
+                <div class="categorie">
+                    <div class="titre-footer">CATEGORIE</div>
+                    <p><a href="#"></a>PRET A PORTER</p>
+                    <p><a href="#"></a>CHAUSSURES</p>
+                    <p><a href="#"></a>ACCESSOIRES</p>
+                    <p><a href="#"></a>SACS & PETITE MARQUINERIE</p>
+                    <p><a href="#"></a>CARTE CADEAU</p>
+                </div>
+                <div class="informations">
+                    <div class="titre-footer">INFORMATIONS</div>
+                    <p><a href="#"></a>MENTIONS LEGALES</p>
+                    <p><a href="#"></a>CONDITION D'UTILISATION ET DE VENTE</p>
+                    <p><a href="#"></a>PAIEMENT SECURISE</p>
+                    <p><a href="#"></a>RETOUR ET ECHANGES</p>
+                    <p><a href="#"></a>CONTACTEZ-NOUS</p>
+                </div>
+                <div class="suivez-nous">
+                    <div class="titre-footer">SUIVEZ-NOUS</div>
+                    <div class="pour-iframe"></div>
+                    <p class="instag"><img src="./images/cms/logo-instagram-joyalestore.png" alt=""> RETROUVEZ JOYA LE STORE SUR INSTAGRAM</p>
+                </div>
+            </div>
+
+            <p class="inscription-a-newleter flex-aic">INSCRIPTION A NEWSLETER</p>
+            <p class="flex-aic">Vous pouvez vous désinscrire à tout moment. Vous trouverez pour cela nos informations 
+                de contact dans les conditions d'utilisation du site.</p>
+
+            <div class="envoi-mail flex-aic">
+                <input type="email" placeholder="VOTRE E-MAL" class="email">
+                <input type="submit" value="SOUSCRIRE" class="btn-envoi-mail">
+            </div>
+        </div>
+
+        <div class="footer-bottom flex-aic">© 2024 - Créé par l'ANFCI </div>
+    </footer>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>

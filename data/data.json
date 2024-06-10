@@ -1,0 +1,791 @@
+{
+    "accueil": [
+        {
+            "image": "../images/accessoirs/ceintures/CEINTURES.jpg",
+            "description": "Ceinture",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },        
+        {
+            "image": "../images/chaussures/escarpins/images2.jpeg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/mocassins/images.jpeg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/erjaa04071_roxy,l_kvj0_frt1.jpg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/image1.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/accessoirs/casquette_et_chapeaux/erjha04264_roxy,w_gzc0_frt1.jpg",
+            "description": "Casquette",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        }
+    ],
+
+    "casquette_et_chapeaux": [
+        {
+            "image": "../images/accessoirs/casquette_et_chapeaux/TENDANCES_TAIYO.jpg",
+            "description": "Casquette",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },        
+        {
+            "image": "../images/accessoirs/casquette_et_chapeaux/casquette-coton-delave-amour-.jpg",
+            "description": "Casquette",
+            "old_price": "45",
+            "new_price": "45",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/accessoirs/casquette_et_chapeaux/erjha04264_roxy,w_gzc0_frt1.jpg",
+            "description": "Casquette",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        }
+    ],
+
+    "ceintures": [
+        {
+            "image": "../images/accessoirs/ceintures/1259822_DSC04791.JPG_1710518478743.jpg",
+            "description": "Ceinture",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/accessoirs/ceintures/images.jpeg",
+            "description": "Ceinture",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/accessoirs/ceintures/CEINTURES.jpg",
+            "description": "Ceinture",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/accessoirs/ceintures/images2.jpeg",
+            "description": "Ceinture",
+            "old_price": "60",
+            "new_price": "50",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "bijoux": [
+        {
+            "image": "../images/bijoux/boucles-d-oreilles-demi-soleil-dore-et-noir-.jpg",
+            "description": "Bijoux",
+            "old_price": "30",
+            "new_price": "25",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/bijoux/boucles-d-oreilles-pendantes-dorees-.jpg",
+            "description": "Bijoux",
+            "old_price": "30",
+            "new_price": "25",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        }
+    ],
+
+    "escarpins": [
+        {
+            "image": "../images/chaussures/escarpins/images.jpeg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/escarpins/images2.jpeg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/escarpins/images3.jpg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/escarpins/vanessa-wu-sandales-dorees-a-talons.jpg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/escarpins/vanessa-wu-sandales-tressees-a-talon.jpg",
+            "description": "Escarpin",
+            "old_price": "40",
+            "new_price": "40",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        }
+    ],
+
+    "mocassins": [
+        {
+            "image": "../images/chaussures/mocassins/image1.jpg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/mocassins/image2.jpg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/mocassins/images.jpeg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/mocassins/mocassins-mi-mai-cuir-mat-.jpg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/mocassins/mocassins-mi-mai-noirs-brillants.jpg",
+            "description": "Mocassin",
+            "old_price": "200",
+            "new_price": "150",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "nouvelle_collection": [
+        {
+            "image": "../images/nouvelle_collection/pull-coeur-beige-chine-.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/nouvelle_collection/semerdjian-baskets-blanche-et-violettes-metallise-.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/nouvelle_collection/semerdjian-baskets-montante-violette-metallise-.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/nouvelle_collection/semerdjian-sandales-en-cuir-dorees.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/nouvelle_collection/semerdjian-verte-eclair-argent.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/nouvelle_collection/vanessa-wu-baskets-eclair-blanc-et-dores-a-scratchs-leopard.jpg",
+            "description": "Nouvelle Collection",
+            "old_price": "100",
+            "new_price": "100",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        }
+    ],
+    "pulls_et_gilets": [
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/41gxKcixZHL._AC_SY780_.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/erjsw03590_roxy,w_tjb0_frt1.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/gilet-beige-en-coton-effet-lin.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/image1.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/images.jpeg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/pull-beige-love-.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/pull-bleu-et-gris-amour-.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pulls_et_gilets/pull-kaki-detail-dore-love-poche-.jpg",
+            "description": "Pull et Gilet",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        }
+    ],
+
+    "t_shirts": [
+        {
+            "image": "../images/pret_a_porter/t_shirts/image4.jpg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/t_shirts/images.jpeg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/t_shirts/images2.jpeg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/t_shirts/images3.jpeg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/t_shirts/tee-shirt-blanc-motif-los-angeles.jpg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/t_shirts/tee-shirt-oeil-a-sequins.jpg",
+            "description": "T-shirt",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "promo": [
+        {
+            "image": "../images/promo/ama-brand-baskets-bronze-a-paillettes-.jpg",
+            "description": "Promo",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/promo/ama-brand-baskets-rose-metallique-.jpg",
+            "description": "Promo",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/promo/ama-brand-beige-dore-detail-orange.jpg",
+            "description": "Promo",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/promo/semerdjian-sandales-en-cuir-dorees.jpg",
+            "description": "Promo",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "pochettes": [
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/20191024_0844251-scaled.jpg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/61hsT4nwb1L._AC_UY900_.jpg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/erjaa04071_roxy,l_kvj0_frt1.jpg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/images.jpeg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/pochettes/pochette-double-mila-louise-natasha-.jpg",
+            "description": "Pochette",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "sacs_a_bondouliere": [
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/817G3uu38KL._AC_UY900_.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/image1.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/image2.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/image3.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/sacs_et_petite_marquinerie/sacs_a_bondouliere/sac-en-cuir-dore-.jpg",
+            "description": "Sac à bandoulière",
+            "old_price": "50",
+            "new_price": "40",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+
+    "homme": [
+        {
+            "image": "../images/homme/image3.jpeg",
+            "description": "Pour homme",
+            "old_price": "90",
+            "new_price": "85",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/homme/images2.jpeg",
+            "description": "Pour homme",
+            "old_price": "90",
+            "new_price": "85",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/homme/Sans titre.jpeg",
+            "description": "Pour homme",
+            "old_price": "90",
+            "new_price": "85",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        }
+    ],
+
+    "robes": [
+        {
+            "image": "../images/pret_a_porter/robes/robe-jaune-brides-croisees.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-leopard.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-a-manches-courte-soyeuse-.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-doree-et-noire-.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "2",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-leopard.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-motif-leopard.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-rouge-.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-longue-verte-dos-nu-.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-noire-pres-du-corps-fendue.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/robes/robe-tie-and-dye-rose-suncoo.jpg",
+            "description": "Robe",
+            "old_price": "150",
+            "new_price": "130",
+            "nb_stars": "4",
+            "nb_produit": "1"
+        }
+    ],
+
+    "jupes": [
+        {
+            "image": "../images/pret_a_porter/jupes/jupe-beige-stretch.jpg",
+            "description": "Jupe",
+            "old_price": "90",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/jupes/jupe-corail-plissee.jpg",
+            "description": "Jupe",
+            "old_price": "90",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/jupes/jupe-longue-leopard-.jpg",
+            "description": "Jupe",
+            "old_price": "90",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/jupes/jupe-mi-longue-fendue.jpg",
+            "description": "Jupe",
+            "old_price": "90",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/jupes/jupe-mi-longue-kaki-poches-laterales-.jpg",
+            "description": "Jupe",
+            "old_price": "90",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "pantalons": [
+        {
+            "image": "../images/pret_a_porter/pantalons/pantalon-a-rayures-en-coton-.jpg",
+            "description": "Pantalon",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pantalons/pantalon-beige-patte-d-eph.jpg",
+            "description": "Pantalon",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pantalons/pantalon-fam-coeurs-blancs.jpg",
+            "description": "Pantalon",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pantalons/pantalon-large-kaki-.jpg",
+            "description": "Pantalon",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/pret_a_porter/pantalons/pantalon-violet-large.jpg",
+            "description": "Pantalon",
+            "old_price": "100",
+            "new_price": "90",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }
+    ],
+
+    "sandales": [
+        {
+            "image": "../images/chaussures/sandales/sandale-en-raphia-camel-.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/sandales/sandales-a-talon-dorees.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/sandales/sandales-camel-a-talon-angel-alarcon-.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/sandales/sandales-double-brides-beige-.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/sandales/sandales-multi-brides-a-talons-.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/sandales/sandales-semerdjian-a-brides-dorees-.jpg",
+            "description": "Sandale",
+            "old_price": "80",
+            "new_price": "70",
+            "nb_stars": "3",
+            "nb_produit": "1"
+        }        
+    ],
+
+    "baskets": [
+        {
+            "image": "../images/chaussures/baskets/baskets-cl11-vert-olive-.jpg",
+            "description": "Basket",
+            "old_price": "180",
+            "new_price": "170",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/baskets/baskets-dfranklin-bleu-denim.jpg",
+            "description": "Basket",
+            "old_price": "180",
+            "new_price": "170",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/baskets/baskets-findlay-vert-d-eau.jpg",
+            "description": "Basket",
+            "old_price": "180",
+            "new_price": "170",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        },
+        {
+            "image": "../images/chaussures/baskets/baskets-semerdjian-or-et-blanc.jpg",
+            "description": "Basket",
+            "old_price": "180",
+            "new_price": "170",
+            "nb_stars": "5",
+            "nb_produit": "1"
+        }
+    ]
+}
